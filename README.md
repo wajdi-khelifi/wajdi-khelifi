@@ -8,7 +8,7 @@ Passionate software engineer. I thrive on turning complex problems into elegant 
 
 * 🌍  I'm based in Tunisia
 * ✉️  You can contact me at [khelifi.wajdi@hotmail.com](mailto:khelifi.wajdi@hotmail.com)
-* 🚀  I'm currently working on [AirBnB\_clone](http://github.com/wajdi-khelifi/AirBnB_clone)
+* 🚀  I'm currently working on [AcademicLife](https://github.com/wajdi-khelifi/AcademicLife)
 * 🧠  I'm learning I'm currently diving deeper into Python to enhance my skills and stay updated with the latest industry trends.
 * 🤝  I'm open to collaborating on I'm always open to collaborating on interesting projects. If you have a project or idea you'd like to discuss, feel free to reach out!
 * ⚡  Thanks for visiting my GitHub! Feel free to explore my repositories and don't hesitate to reach out for collaboration or just a friendly chat. 😊
